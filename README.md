@@ -1,4 +1,4 @@
-### Hi there 👋
+d### Hi there 👋
 
 <!--
 **hassman-w/hassman-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Education:
+Northeastern University -> Khoury College of Computer Sciences
+Candidate: Bachelor of Science in Cybersecurity and Business Administration
+Boston, MA, Sep 2023 - May 2028
